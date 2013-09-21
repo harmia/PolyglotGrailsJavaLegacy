@@ -14,7 +14,7 @@ The project structure follows the principles of the four layer architecture of a
 
 ![Project structure of the Groovy project with Java legacy domain](web-app/images/project_structure_groovy_java_legacy_domain.png)
 
-## Polyglot Programming ##
+## Polyglot Programming Pyramid ##
 
 Polyglot programming pyramid specifies the programming languages, frameworks and libraries used in the project. Groovy is the programming language of choice in this project and is located in the stable layer. Grails is a project to extend Groovy to web application development. It provides a fully fledged agile web development environment built upon existing technologies like Spring Framework and Hibernate leveraging the features of Groovy. Having principles like convention over configuration, Grails strives for quick and simple development with less configuration providing many common features out of the box. Grails is an essential part of a web application contributing to all layers, although foremost to the dynamic layer by providing very versatile web application development framework.
 
